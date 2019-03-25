@@ -1,0 +1,52 @@
+     Welcome to the algorithmversion: V20190107_opencv4.0.0 _2019_01_07
+->temp_path: D:\CS1\StudyImage_Origin\表9\
+->srcImg_Path:D:\CS1\StudyImage_Origin\表9\表9.jpg,已经存在!
+->srcImg load successfully.
+/----------输入云台和相机参数----------/
+->zoom0 : 9000
+->focus0 : 40414
+->zoom1 : 14748
+->focus1 : 40326
+->zoom2 : 0
+->focus2 : 0
+->H1 : 76.489998
+->V1 : 18.940001
+->deltaH1 : 0.000000
+->deltaV1 : 0.000000
+->deltaH2 : -76.489998
+->deltaV2 : -18.940001
+/------------------------------------/
+->Indoor1_outdoor0 : 0
+->Step_Count : 2
+->nStep : 0
+->Start parse xml.
+->category : 61
+->roi_num : 1
+->OrigionPos_centerX_Y[0] : [920, 584]
+->Xml parse ok.
+->Temp image load successfully.
+->entry Image matching
+->SIFT match successfully.
+->SIFT match end.
+->Image matching successfully.
+->matchCenter : [854, 387]
+->nZoom : 9000
+->offest_X : -66
+->offest_Y : 197
+->______Pshift_H : -0.729
+->______Pshift_V : 2.175
+/----------相机区域聚焦参数-----------/
+->Out_RegionFocus_X1 : 627
+->Out_RegionFocus_Y1 : 298
+->Out_RegionFocus_X2 : 1181
+->Out_RegionFocus_Y2 : 814
+->Out_RegionFocus_En : 1
+/---------------------------------------/
+/----------输出云台和相机参数-----------/
+->Out_zoom : 14748
+->Out_focus : 40326
+->Out_H : 75.761452
+->Out_V : 21.114599
+/---------------------------------------/
+->Running time is: 0.279s
+->Algorithm process over!
